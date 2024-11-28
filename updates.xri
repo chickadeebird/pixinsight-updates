@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+      This is the repository for PixInsight scripts by chickadeebird (Chick Dee).
+    </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.8:1.9.9">
+      <package fileName="ChickadeebirdUpdateNov28.2024.zip" sha1="593C2BAF8D914B552DFB5CEC70A1E78B964F69E7" type="script" releaseDate="20241128">
+         <title>
+        Dust Donut Repair
+      </title>
+         <description>
+            <p>
+First commit of the Dust Donut Repair script.
+		</p>
+         </description>
+      </package>
+   </platform>
+</xri>
